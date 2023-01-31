@@ -1,0 +1,14 @@
+.cv-button:hover .slide {
+    right: 0;
+    transition: all .5s ease;
+}
+
+.fa-download {
+    transform: translateY(50%);
+}
+
+.cv-button:hover a,
+.cv-button:hover i {
+    color: #031728;
+    transition: all .4s;
+}
